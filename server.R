@@ -2,7 +2,7 @@ library(shiny)
 library(dplyr)
 library(ggplot2)
 library(grid)
-print("Doubletest")
+print("Doubletest 22")
 
 pkadata <- read.table(file = "compound_data.txt",
                       sep = ";",
