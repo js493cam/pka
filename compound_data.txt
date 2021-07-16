@@ -1,0 +1,9 @@
+Compound_Name;pka_values;pka_types
+Acetic acid;4.8;A
+Formic acid;3.8;A
+Ammonia;10.5;B
+Succinic acid;4.2,5.5;AA
+Alanine;2.3,9.9;AB
+Warfarin;5.0;A
+Cetirizine;1.52,2.92,8.27;BAB
+Custom;7;A
