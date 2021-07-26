@@ -8,7 +8,7 @@ ui <- fluidPage(
   shinyjs::useShinyjs(),
   
   # App title ----
-  titlePanel("Manpulating pKa values"),
+  titlePanel("ChemByte: App for manpulating pKa values"),
   
   # Sidebar layout with input and output definitions ----s
   sidebarLayout(
